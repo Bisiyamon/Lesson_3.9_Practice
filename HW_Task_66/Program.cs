@@ -16,4 +16,4 @@ int RecursionSumOfPositiveInteger(int M, int N)
 
 int N = Prompt("Input High number: ");
 int M = Prompt("Input Low number: ");
-System.Console.WriteLine( $"Sum of digits = {RecursionSumOfPositiveInteger(M, N)}");
+System.Console.WriteLine($"Sum of digits = {RecursionSumOfPositiveInteger(M, N)}");
